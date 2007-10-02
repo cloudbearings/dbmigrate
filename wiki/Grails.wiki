@@ -1,8 +1,9 @@
 #summary Using the dbmigrate plugin with Grails
+#labels Featured
 
 = Introduction =
 
-The intent of this plugin is to be somewhat similar to 'rails migrate' but a little more sophisticated.
+The intent of this plugin is to be somewhat similar to 'rake migrate' but a little more sophisticated.
 
 = Scripts =
 
